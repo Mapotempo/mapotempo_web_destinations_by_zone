@@ -1,0 +1,4 @@
+require "mapotempo_web_destinations_by_zone/engine"
+
+module MapotempoWebDestinationsByZone
+end

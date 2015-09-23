@@ -1,0 +1,14 @@
+PATH
+  remote: .
+  specs:
+    mapotempo_web_destinations_by_zone (0.0.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  mapotempo_web_destinations_by_zone!
